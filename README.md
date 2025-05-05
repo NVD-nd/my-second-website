@@ -245,7 +245,7 @@
   
   <div class="container">
     <div class="photo-frame">
-      <img src="https://i.imgur.com/JqYeYnN.jpg" alt="Ảnh của chúng ta">
+      <img src="[https://i.imgur.com/JqYeYnN.jpg](https://cdn.kona-blue.com/upload/kona-blue_com/post/images/2024/09/18/456/avatar-doi-cute-10.jpg)" alt="Ảnh của chúng ta">
     </div>
     
     <h1>Em có muốn trở thành một nửa của anh không?</h1>
